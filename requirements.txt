@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+seaborn
+langchain
+plotly
+numpy
+pypdf2
+nbformat
